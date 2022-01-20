@@ -4,3 +4,4 @@
 宗定先生ご指導のコード
 
 HerokuでDeployしたもの
+https://blooming-ocean-60936.herokuapp.com/
